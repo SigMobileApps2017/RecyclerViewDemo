@@ -1,6 +1,6 @@
 # RecyclerViewDemo
 
-SIG Mobile Apps 2017
+SIG Mobile Apps 2017 Session 5
 
 Points covered:
 
